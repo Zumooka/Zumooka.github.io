@@ -1,1 +1,1 @@
-# https://Zumooka.github.io
+# https://zumooka.github.io
